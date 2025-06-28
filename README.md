@@ -151,7 +151,7 @@ The project follows a client-server architecture:
 
 ## Contributors
 
-* **Team Size**: 5 members
+* **Team Size**: 4 members
 * Roles are assigned across frontend, backend, and quality assurance.
 
 ---
